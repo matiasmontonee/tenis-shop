@@ -1,4 +1,4 @@
-Para inicializar el proyecto, ejecutar los siguienetes comandos:
+Para inicializar el proyecto, ejecutar los siguientes comandos:
 
 - composer install
 - php artisan migrate
